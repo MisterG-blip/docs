@@ -20,3 +20,25 @@ Bei Fragen zu deiner Teilnahme oder zu den Daten wende dich bitte an: g.gersdorf
 
 Stand: 07.11.2025
 
+
+# Terms of Participation for the Project "DSA - Don't Show Ads"
+
+## 1. Eligibility
+Participation is open to all individuals aged 16 and above. For participants under 16, parental or guardian consent is required.
+
+## 2. Use of Submitted Images
+By participating, you agree that your submitted image may be used for the project. Images will be **either anonymized** or published under your **artist name**. Use of your real name will **not** occur.
+
+## 3. Data Protection
+We process your artist name, real name (if provided), email, and submitted image solely for this project in accordance with our [Privacy Policy](link-to-your-privacy-policy).
+
+## 4. Rights
+You confirm that you hold the rights to the submitted image or that you have obtained the consent of your parent(s) or guardian(s).
+
+## 5. Submission and Publication
+By submitting your image, you agree that the submission is final. Once submitted, the image cannot be withdrawn.
+
+## 6. Contact
+For any questions regarding your participation or your data, please contact: g.gersdorf@gmx.de
+
+Last updated: 07.11.2025
