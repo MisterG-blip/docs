@@ -4,8 +4,11 @@
 Verantwortlich für die Datenverarbeitung im Rahmen dieses Projekts ist:
 
 **Mister G Apps**  
-[Gunnar Gersdorf, Meiendorfer Straße 73a, 22145 Hamburg]  
-[g.gersdorf@gmx.de]
+Gunnar Gersdorf
+Meiendorfer Straße 73a
+22145 Hamburg
+
+g.gersdorf@gmx.de
 
 ## 2. Erhobene Daten
 Wir erheben ausschließlich die Daten, die für die Teilnahme an unserem Projekt notwendig sind:
@@ -47,12 +50,67 @@ Für bereits veröffentlichte Bilder gilt: Ein Widerruf kann die bereits erfolgt
 ## 8. Sicherheit
 Wir setzen technische und organisatorische Maßnahmen ein, um die Daten vor unbefugtem Zugriff, Verlust oder Missbrauch zu schützen.
 
-## 9. Kontakt
-Bei Fragen oder Anliegen zum Datenschutz wende dich bitte an:
-
-**Mister G Apps**  
-[E-Mail-Adresse einfügen]
 
 ---
 
 Stand: 07.11.2025
+
+# Privacy Policy for the Project "DSA - Don't Show Ads"
+
+## 1. Data Controller
+The entity responsible for data processing within this project is:
+
+**Mister G Apps**  
+Gunnar Gersdorf  
+Meiendorfer Straße 73a  
+22145 Hamburg, Germany  
+
+g.gersdorf@gmx.de
+
+## 2. Collected Data
+We only collect data necessary for participation in our project:
+
+- Artist name / pseudonym  
+- Email address (for inquiries)  
+- Date of birth (for age verification)  
+- Uploaded image / artwork  
+
+Real names are not required unless explicitly provided by you.
+
+## 3. Purpose of Data Processing
+The data is used exclusively for the following purposes:
+
+- Verifying eligibility to participate  
+- Conducting the project / levels  
+- Communication for inquiries  
+- Publishing submitted works (anonymized or under artist name)
+
+## 4. Legal Basis
+Processing is based on voluntary consent in accordance with Art. 6(1)(a) of the GDPR.
+
+## 5. Data Retention Period
+Data will only be retained as long as necessary for the project. Uploaded images for which consent has been given will be permanently used for publication. Data not approved for publication or submitted by minors without parental consent will be deleted after review.
+
+## 6. Sharing with Third Parties
+Personal data will not be shared with third parties, except for technical purposes (e.g., hosting, cloud storage). In such cases, providers are obligated to process data in a GDPR-compliant manner.
+
+## 7. Participants' Rights
+You have the right at any time to:
+
+- Access the stored data  
+- Correct inaccurate data  
+- Delete unpublished data  
+- Restrict processing  
+
+For already published images: revoking consent cannot undo publication. Only final contributions should be submitted.
+
+## 8. Security
+We implement technical and organizational measures to protect data from unauthorized access, loss, or misuse.
+
+
+
+---
+
+Last updated: 07.11.2025
+
+
