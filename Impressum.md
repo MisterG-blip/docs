@@ -6,7 +6,7 @@ Meiendorfer Straße 73a
 22145 Hamburg  
 Deutschland  
 
-E-Mail: g.gersdorf@gmx.de  
+E-Mail: info@ichwillzocken.fun  
 
 **Hinweis:**  
 Dieses Impressum gilt für alle Projekte von Mister G Apps, einschließlich aber nicht beschränkt auf:  
