@@ -6,7 +6,7 @@ Meiendorfer Straße 73a
 22145 Hamburg  
 Deutschland  
 
-E-Mail: info@ichwillzocken.fun  
+E-Mail: info@ichwillzocken.com  
 
 **Hinweis:**  
 Dieses Impressum gilt für alle Projekte von Mister G Apps, einschließlich aber nicht beschränkt auf:  
