@@ -1,116 +1,92 @@
-# Datenschutzrichtlinie für das Projekt "DSA - Don't Show Ads"
+# Datenschutzerklärung für die Mister G Apps
+## (Mister G Games Portal & TeacherSupport)
 
 ## 1. Verantwortlicher
-Verantwortlich für die Datenverarbeitung im Rahmen dieses Projekts ist:
 
-**Mister G Apps**  
+Verantwortlich für die Datenverarbeitung im Rahmen dieser Projekte ist:
+
+**Mister G Apps**
 Gunnar Gersdorf
 Meiendorfer Straße 73a
 22145 Hamburg
 
-g.gersdorf@gmx.de
+info@ichwillzocken.com
 
-## 2. Erhobene Daten
-Wir erheben ausschließlich die Daten, die für die Teilnahme an unserem Projekt notwendig sind:
+## 2. Übersicht der betroffenen Angebote
 
-- Künstlername / Pseudonym  
-- E-Mail-Adresse (für Rückfragen)  
-- Geburtsdatum (zur Altersprüfung)  
-- Hochgeladenes Bild / Artwork
+Diese Erklärung gilt für zwei Angebote von Mister G Apps:
 
-Keine Klarnamen werden benötigt, es sei denn, es wird ausdrücklich von dir angegeben.
+- **Mister G Games Portal** – Browserspiele mit Highscore-Funktion (z. B. der Runner).
+- **TeacherSupport** – ein Werkzeug für Lehrkräfte, u. a. zum fairen Auslosen von Gruppen, mit Konto- und Speicherfunktion.
 
-## 3. Zweck der Datenverarbeitung
-Die Daten werden ausschließlich für folgende Zwecke genutzt:
+Frühere Projekte (u. a. "DSA – Don't Show Ads") werden nicht mehr betrieben. Für sie werden keine neuen Daten mehr erhoben; bereits vorhandene Daten wurden bzw. werden gemäß den seinerzeit geltenden Bestimmungen gelöscht.
 
-- Überprüfung der Teilnahmeberechtigung  
-- Durchführung des Projekts / Levels  
-- Kommunikation bei Rückfragen  
-- Veröffentlichung der eingesendeten Werke (anonymisiert oder unter Künstlername)
+## 3. Erhobene Daten
 
-## 4. Rechtsgrundlage
-Die Verarbeitung erfolgt auf Grundlage der freiwilligen Einwilligung gemäß Art. 6 Abs. 1 lit. a DSGVO.
+### 3.1 Mister G Games Portal
+- Frei gewählter Spitzname / Pseudonym
+- Erzielter Punktestand
+- Zeitpunkt der Einsendung
 
-## 5. Dauer der Speicherung
-Die Daten werden nur so lange gespeichert, wie sie für das Projekt erforderlich sind. Hochgeladene Bilder, für die eine Einwilligung vorliegt, werden dauerhaft für die Veröffentlichung verwendet. Daten, die nicht zur Veröffentlichung freigegeben wurden oder von Minderjährigen ohne Zustimmung der Erziehungsberechtigten stammen, werden nach Abschluss der Sichtung gelöscht.
+Für die Teilnahme am Highscore ist kein Konto und keine E-Mail-Adresse erforderlich.
 
-## 6. Weitergabe an Dritte
-Es erfolgt keine Weitergabe der personenbezogenen Daten an Dritte, außer für technische Notwendigkeiten (z. B. Hosting, Cloud-Speicherung). In diesen Fällen verpflichten wir die Anbieter zur DSGVO-konformen Verarbeitung.
+### 3.2 TeacherSupport
+- E-Mail-Adresse (für die Kontoerstellung/Anmeldung)
+- Passwort (in verschlüsselter Form; Mister G Apps hat keinen Zugriff auf das Klartext-Passwort, die Verwaltung übernimmt Google Firebase Authentication)
+- Von der Lehrkraft angelegte Gruppen und die darin eingetragenen Namen (z. B. Namen von Schüler:innen zur Gruppeneinteilung)
 
-## 7. Rechte der Teilnehmer:innen
+## 4. Zweck der Datenverarbeitung
+
+- **Mister G Games:** Anzeige von Bestenlisten (monatlich und projektübergreifend) und Kürung von Monatschampions.
+- **TeacherSupport:** Bereitstellung des Nutzerkontos, Speicherung und geräteübergreifender Abruf der angelegten Gruppen.
+
+## 5. Rechtsgrundlage
+
+Die Verarbeitung erfolgt auf Grundlage der freiwilligen Einwilligung gemäß Art. 6 Abs. 1 lit. a DSGVO (Eingabe eines Highscore-Namens bzw. Registrierung eines Kontos) sowie, soweit ein Konto besteht, zur Erfüllung des Nutzungsvertrags gemäß Art. 6 Abs. 1 lit. b DSGVO.
+
+## 6. Wichtiger Hinweis für TeacherSupport: Daten Dritter (Schülernamen)
+
+Die in TeacherSupport angelegten Gruppen können Namen von Schüler:innen enthalten, die selbst nicht Vertragspartner sind und keine eigene Einwilligung abgegeben haben. Hier gilt:
+
+- Die **Lehrkraft, die das Konto nutzt, ist dafür verantwortlich**, dass eine ausreichende Rechtsgrundlage für die Eingabe dieser Namen besteht (in der Regel deckt der schulische Organisationsauftrag die Verarbeitung von Vornamen zu unterrichtsorganisatorischen Zwecken ab – im Zweifel sollte dies mit der Schule bzw. dem/der schulischen Datenschutzbeauftragten abgestimmt werden).
+- Mister G Apps stellt in diesem Zusammenhang die technische Infrastruktur bereit und tritt insoweit als Auftragsverarbeiter auf, nicht als datenschutzrechtlich Verantwortlicher für die eingetragenen Schülernamen.
+- Empfehlung an Lehrkräfte: Wo möglich, nur Vornamen oder Kürzel statt vollständiger Namen eintragen.
+
+**Hinweis:** Für ein rein schulisches Setting kann je nach Bundesland/Schulträger ein gesonderter Auftragsverarbeitungsvertrag (AVV) zwischen Schule und Mister G Apps sinnvoll oder erforderlich sein. Das sollte anwaltlich geprüft werden, bevor TeacherSupport in großem Umfang an Schulen eingesetzt wird.
+
+## 7. Hosting und Auftragsverarbeiter
+
+Beide Angebote nutzen **Google Firebase** (Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland; ggf. Verarbeitung auch durch Google LLC, USA) für Authentifizierung und Datenspeicherung. Die Datenbank-Inhalte werden, soweit konfiguriert, in der EU-Region (europe-west1) gespeichert. Bei einzelnen Diensten (z. B. Authentifizierungs-Infrastruktur) kann eine Verarbeitung außerhalb der EU nicht vollständig ausgeschlossen werden; in diesem Fall stützt sich die Übermittlung auf die Standardvertragsklauseln der EU-Kommission, zu deren Einhaltung sich Google verpflichtet hat.
+
+Es erfolgt darüber hinaus **keine Weitergabe an weitere Dritte**.
+
+## 8. Dauer der Speicherung
+
+- **Highscores:** Werden im Rahmen der monatlichen Bestenliste gespeichert; der jeweilige Monatschampion wird dauerhaft in der Hall of Fame geführt.
+- **TeacherSupport-Gruppen:** Bleiben gespeichert, bis die Lehrkraft sie selbst löscht oder das Konto löscht.
+
+## 9. Rechte der Nutzer:innen
+
 Du hast jederzeit das Recht auf:
 
-- Auskunft über die gespeicherten Daten  
-- Berichtigung falscher Daten  
-- Löschung nicht veröffentlichter Daten  
+- Auskunft über die gespeicherten Daten
+- Berichtigung falscher Daten
+- Löschung deiner Daten (Gruppen lassen sich direkt im Tool löschen, Kontolöschung auf Anfrage)
 - Einschränkung der Verarbeitung
+- Datenübertragbarkeit
+- Widerruf einer erteilten Einwilligung mit Wirkung für die Zukunft
+- Beschwerde bei einer Datenschutzaufsichtsbehörde, z. B. dem Hamburgischen Beauftragten für Datenschutz und Informationsfreiheit
 
-Für bereits veröffentlichte Bilder gilt: Ein Widerruf kann die bereits erfolgte Veröffentlichung nicht rückgängig machen, daher sollten nur endgültige Beiträge eingereicht werden.
+Für bereits veröffentlichte Highscore-Einträge gilt: Ein Widerruf kann eine bereits erfolgte Veröffentlichung der Bestenliste nicht rückwirkend entfernen; zukünftige Anzeigen werden auf Wunsch angepasst.
 
-## 8. Sicherheit
-Wir setzen technische und organisatorische Maßnahmen ein, um die Daten vor unbefugtem Zugriff, Verlust oder Missbrauch zu schützen.
+## 10. Sicherheit
 
+Wir setzen technische und organisatorische Maßnahmen ein, um die Daten vor unbefugtem Zugriff, Verlust oder Missbrauch zu schützen. Passwörter werden ausschließlich verschlüsselt über Google Firebase Authentication verwaltet; Mister G Apps hat keinen Zugriff auf Klartext-Passwörter.
 
----
+## 11. Kontakt
 
-Stand: 07.11.2025
-
-# Privacy Policy for the Project "DSA - Don't Show Ads"
-
-## 1. Data Controller
-The entity responsible for data processing within this project is:
-
-**Mister G Apps**  
-Gunnar Gersdorf  
-Meiendorfer Straße 73a  
-22145 Hamburg, Germany  
-
-g.gersdorf@gmx.de
-
-## 2. Collected Data
-We only collect data necessary for participation in our project:
-
-- Artist name / pseudonym  
-- Email address (for inquiries)  
-- Date of birth (for age verification)  
-- Uploaded image / artwork  
-
-Real names are not required unless explicitly provided by you.
-
-## 3. Purpose of Data Processing
-The data is used exclusively for the following purposes:
-
-- Verifying eligibility to participate  
-- Conducting the project / levels  
-- Communication for inquiries  
-- Publishing submitted works (anonymized or under artist name)
-
-## 4. Legal Basis
-Processing is based on voluntary consent in accordance with Art. 6(1)(a) of the GDPR.
-
-## 5. Data Retention Period
-Data will only be retained as long as necessary for the project. Uploaded images for which consent has been given will be permanently used for publication. Data not approved for publication or submitted by minors without parental consent will be deleted after review.
-
-## 6. Sharing with Third Parties
-Personal data will not be shared with third parties, except for technical purposes (e.g., hosting, cloud storage). In such cases, providers are obligated to process data in a GDPR-compliant manner.
-
-## 7. Participants' Rights
-You have the right at any time to:
-
-- Access the stored data  
-- Correct inaccurate data  
-- Delete unpublished data  
-- Restrict processing  
-
-For already published images: revoking consent cannot undo publication. Only final contributions should be submitted.
-
-## 8. Security
-We implement technical and organizational measures to protect data from unauthorized access, loss, or misuse.
-
-
+Bei Fragen zum Datenschutz wende dich an: **info@ichwillzocken.com**
 
 ---
 
-Last updated: 07.11.2025
-
-
+Stand: 20.08.2026
