@@ -10,8 +10,11 @@ E-Mail: info@ichwillzocken.com
 
 **Hinweis:**  
 Dieses Impressum gilt für alle Projekte von Mister G Apps, einschließlich aber nicht beschränkt auf:  
+- Mister G Game Portal
 - DSA – Don't Show Ads  
 - Lost Soldier  
-- ReDate  
+- ReDate
+- MaLa - Das Mathematik Labor
+- Teacher Support
 
 Alle Inhalte und Funktionen dieser Projekte werden von Mister G Apps bereitgestellt.
